@@ -20,6 +20,6 @@ public class AppTest
     }
 
     public static void main(String[] args) {
-        System.out.print("1111");
+        System.out.print("1111wqe");
     }
 }
